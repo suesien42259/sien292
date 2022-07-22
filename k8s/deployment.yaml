@@ -29,6 +29,6 @@ spec:
         - name: Vmess_UUID
           value: "5dfc84ba-980e-40a0-9e48-ffed0762da36"
         - name: Vmess_Path
-          value: "/vm666vb233"
+          value: "/vm666vb234"
         - name: Share_Path
           value: "/v2link"
